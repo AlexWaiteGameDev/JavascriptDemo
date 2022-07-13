@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnGnKD5qDudk6F6cU0clV46o4MjdU97p740MNBh1aSunRL/2tapZDgqvdDgFR2oR3p+PnBApn6+44awOJ2N9nw==",
+  "success": true,
+  "projectFilePath": "C:\\$INFO5101-project1\\INFO5101-project1\\Project1_Group_39\\Project1_Group_39.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoila\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
